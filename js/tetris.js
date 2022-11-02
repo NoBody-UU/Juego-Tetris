@@ -86,7 +86,7 @@ class Game {
 <strong>Controles:</strong>
 <ul class="list-group">
 <li class="list-group-item"> <kbd>P</kbd><br>Pausar o reanudar </li>
-<li class="list-group-item"> <kbd>R</kbd><br>Rotar</li>
+<li class="list-group-item"> <kbd>R o ↑ </kbd><br>Rotar</li>
 <li class="list-group-item"> <kbd>Flechas de dirección(← ↓ →)</kbd><br>Mover figura hacia esa dirección</li>
 <li class="list-group-item"><strong>También puedes usar los botones si estás en móvil (Guiño, si es para ti :| )</strong></li>
 </ul>
