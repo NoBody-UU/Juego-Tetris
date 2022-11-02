@@ -20,7 +20,7 @@ class Game {
         //Todo Gracias a Mariana ♥
         "#ffd300",
         "#4c13f5",
-        "#fff",
+        "#000000",
         "#272822",
         "#652ec7",
         "#13ca91",
